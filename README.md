@@ -1,2 +1,2 @@
 # kaggle_submissions
-kaggle submissions
+kaggle submissions using google colab
